@@ -21,18 +21,15 @@ The CCR Streamlit Project is an innovative web application that integrates an OC
 CCR-Streamlit-OCR/
 │── 📜 README.md              # Project documentation
 │── 📂 model/                 # OCR model (.h5 file)
-│── 📂 streamlit_app/         # Streamlit app scripts
 │── 📂 data/                  # Captured frames & extracted data
 │── 📂 database/              # XAMPP database storage
-│── 📂 utils/                 # Helper functions for image processing
-│── 📂 requirements.txt       # Required Python libraries
 │── 📜 app.py                 # Main Streamlit app script
 
 🔧 Installation & Setup
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/CCR-Streamlit-OCR.git
+git clone https://github.com/himanshikawade/OCR-Streamlit-Project.git
 cd CCR-Streamlit-OCR
 
 2️⃣ Install Dependencies
